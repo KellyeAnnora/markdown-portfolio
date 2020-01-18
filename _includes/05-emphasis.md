@@ -1,4 +1,4 @@
 - thing *one*
 - thing _two_
 - thing _three_ **IMPORTANT** :heart:
-- thing *four* __IMPORTANT__ :tada:
+- thing *four* __IMPORTANT__
