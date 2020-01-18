@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- thing *one*
+- thing _two_
+- thing _three_ **IMPORTANT** :heart:
+- thing *four* __IMPORTANT__ :tada:
